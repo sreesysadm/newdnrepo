@@ -4,3 +4,5 @@
 *.py
 
 !impfile.py
+
+[aeiou]*.java
