@@ -1,3 +1,5 @@
-written on master this is the fix for bug1 in cloudbots project....
+
+suggested code by manager... this is the fix for bug1 in cloudbots project....
+
 
 
