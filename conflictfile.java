@@ -1,1 +1,1 @@
-written on master this is confict file written on bug1 
+written on bug1 this is confict file  
